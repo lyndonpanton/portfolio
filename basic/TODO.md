@@ -6,6 +6,7 @@ A list of tasks for completing this version project.
 
 ## List
 
-- Add hover styling to the aside icons
+- Hover styling to the aside icons
+- Transition movement for internal links
 
 ## References
