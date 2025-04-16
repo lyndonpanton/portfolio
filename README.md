@@ -23,6 +23,8 @@ experience and certification, projects, and skills.
 
 - npm
 - Google Fonts
+- Fontawesome
+- Adobe Color Wheel
 
 ### Snippets
 
