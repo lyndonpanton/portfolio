@@ -29,7 +29,7 @@ body, html {
 
 /* Aside */
 aside {
-    position: absolute;
+    position: fixed;
     right: 0;
 
     height: 100vh;
