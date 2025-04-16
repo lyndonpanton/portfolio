@@ -1,5 +1,9 @@
 /*
     - Pick colour scheme
+        - Primary: #0090B8
+        - Secondary: #DE7918
+        - Normal text: #000000
+        - Blue text: #000088
     - Highlight specialisations in #portfolio-introduction
     - Insert arrow icons (fontawesome) in .header-navigation-list-item elements
 */
@@ -14,6 +18,7 @@
 body, html {
     margin: 0;
     padding: 0;
+
     font-family: "Afacad Flux", sans-serif;
     font-optical-sizing: auto;
     font-size: 16px;
@@ -28,18 +33,19 @@ header {
     padding-top: 300px;
     padding-left: 210px;
     height: 100vh;
-
-    
 }
 
 #header-author {
     margin: 0;
 
+    color: #000088;
     font-size: 3em;
 }
 
 #header-role {
     margin: 0;
+
+    color: #000088;
     font-size: 2em;
 }
 
@@ -47,6 +53,10 @@ header {
     width: 60vh;
 
     font-size: 1.5em;
+}
+
+.header-expertise {
+    color: #DE7918;
 }
 
 /* #header-navigation {
@@ -75,13 +85,13 @@ header {
 
 .header-navigation-list-item:hover {
     /* border-color: #DEA718; */
-    border-color: #113BB8;
+    border-color: #0090B8;
 
     transition: border-color 0.5s linear;
 }
 
 .header-navigation-list-item:hover * {
-    color: #113BB8;
+    color: #0090B8;
     /* color: #DEA718; */
     
 

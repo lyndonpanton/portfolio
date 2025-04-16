@@ -35,8 +35,10 @@
         <p id="header-introduction">
             <!-- I am a computer science graduate with experience in frontend,
             backend, and server-side development. -->
-            I am a computer science graduate with experience in frontend,
-            server-side, and database development.
+            I am a computer science graduate with experience in
+            <span class="header-expertise">frontend</span>,
+            <span class="header-expertise">server-side</span>, and
+            <span class="header-expertise">database development</span>.
         </p>
 
         <nav id="header-navigation">
