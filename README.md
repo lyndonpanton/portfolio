@@ -21,7 +21,6 @@ experience and certification, projects, and skills.
 
 ### Managers, Packages and Libraries
 
-- npm
 - Google Fonts
 - Fontawesome
 - Adobe Color Wheel

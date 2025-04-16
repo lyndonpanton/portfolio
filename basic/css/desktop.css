@@ -4,10 +4,6 @@
         - Secondary: #DE7918
         - Normal text: #000000
         - Blue text: #000088
-    - Highlight specialisations in #portfolio-introduction
-    - Insert arrow icons (fontawesome) in .header-navigation-list-item elements
-    - Use a different css file for each media screen breakpoint
-    - Decide on aside icon hover colours
 */
 
 /* Root */
@@ -188,3 +184,26 @@ header {
 /* Projects */
 
 /* Footer */
+footer {
+
+}
+
+#external-links {
+
+}
+
+.external-links-list {
+
+}
+
+.external-links-list-heading {
+    
+}
+
+.external-links-list-item {
+
+}
+
+#copyright {
+
+}

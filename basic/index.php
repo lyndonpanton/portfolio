@@ -104,7 +104,40 @@
     </main>
 
     <footer>
+        <section id="external-links">
+            <!-- <ul class="external-links-list">
+                <li class="external-links-list-heading external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+            </ul>
+            <ul class="external-links-list">
+                <li class="external-links-list-heading external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+            </ul> -->
+            <ul class="external-links-list">
+                <li class="external-link-list-heading external-link-list-item">Languages and Frameworks</li>
+                <li class="external-link-list-item">HTML</li>
+                <li class="external-link-list-item">CSS</li>
+                <li class="external-link-list-item">JavaScript</li>
+                <li class="external-link-list-item">PHP</li>
+            </ul>
+            <ul class="external-links-list">
+                <li class="external-links-list-heading external-links-list-item">Libraries and APIs</li>
+                <li class="external-links-list-item">Fontawesome</li>
+                <li class="external-links-list-item">Google Fonts</li>
+                <li class="external-links-list-item"></li>
+                <li class="external-links-list-item"></li>
+            </ul>
+        </section>
 
+        <p id="copyright">
+            &copy; <?php echo date("Y") ?> Lyndon Mykal Panton | All Rights Reserved
+        </p>
     </footer>
 </body>
 </html>
