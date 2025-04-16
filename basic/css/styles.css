@@ -1,11 +1,13 @@
 /*
-    - Pick colour scheme
+    - Colour scheme
         - Primary: #0090B8
         - Secondary: #DE7918
         - Normal text: #000000
         - Blue text: #000088
     - Highlight specialisations in #portfolio-introduction
     - Insert arrow icons (fontawesome) in .header-navigation-list-item elements
+    - Use a different css file for each media screen breakpoint
+    - Decide on aside icon hover colours
 */
 
 /* Desktop ********************************************************************/
@@ -27,8 +29,53 @@ body, html {
     font-weight: 500;
 }
 
-/* Header */
+/* Aside */
+aside {
+    position: absolute;
+    right: 0;
 
+    height: 100vh;
+
+    font-size: 2.5em;
+}
+
+#profile-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100px;
+}
+
+.profile-list-item {
+    margin: 50px 0px;
+
+    list-style-type: none;
+
+    text-decoration: underline;
+}
+
+#profile-list-github {
+    
+}
+
+#profile-list-linkedin {
+
+}
+
+#profile-list-email {
+
+}
+
+.profile-list-icon {
+
+}
+
+/* Header */
 header {
     padding-top: 300px;
     padding-left: 210px;

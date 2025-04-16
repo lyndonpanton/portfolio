@@ -25,8 +25,18 @@
 </head>
 <body>
     <aside>
-        
-    <aside>
+        <ul id="profile-list">
+            <li id="profile-list-github" class="profile-list-item">
+                <i class="profile-list-icon fa-brands fa-github-alt"></i>
+            </li>
+            <li id="profile-list-linkedin" class="profile-list-item">
+                <i class="profile-list-icon fa-brands fa-linkedin-in"></i>
+            </li>
+            <li id="profile-list-email" class="profile-list-item">
+                <i class="profile-list-icon fa-solid fa-envelope"></i>
+            </li>
+        </ul>
+    </aside>
 
     <header>
         <h1 id="header-author">Lyndon Mykal Panton</h1>
@@ -46,14 +56,14 @@
                 <li class="header-navigation-list-item">
                     <a class="header-navigation-list-link" href="./">
                         <span class="header-navigation-list-text">About Me</span>
-                        <i class="fa-solid fa-arrow-right header-navigation-list-arrow"></i>
+                        <i class="header-navigation-list-arrow fa-solid fa-arrow-right"></i>
                         <!-- <svg class="header-navigation-list-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.<path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg> -->
                     </a>
                 </li>
                 <li class="header-navigation-list-item">
                     <a class="header-navigation-list-link" href="./">
                         <span class="header-navigation-list-text">Skills</span>
-                        <i class="fa-solid fa-arrow-right header-navigation-list-arrow"></i>
+                        <i class="header-navigation-list-arrow fa-solid fa-arrow-right"></i>
                         <!-- <svg class="header-navigation-list-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.<path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg> -->
                     </a>
                 </li>
@@ -61,14 +71,14 @@
                     <a class="header-navigation-list-link" href="./">
                         <!-- <span class="header-navigation-list-text">Qualifications and Work Experience</span> -->
                         <span class="header-navigation-list-text">Experience</span>
-                        <i class="fa-solid fa-arrow-right header-navigation-list-arrow"></i>
+                        <i class="header-navigation-list-arrow fa-solid fa-arrow-right"></i>
                         <!-- <svg class="header-navigation-list-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.<path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg> -->
                     </a>
                 </li>
                 <li class="header-navigation-list-item">
                     <a class="header-navigation-list-link" href="./">
                         <span class="header-navigation-list-text">Projects</span>
-                        <i class="fa-solid fa-arrow-right header-navigation-list-arrow"></i>
+                        <i class="header-navigation-list-arrow fa-solid fa-arrow-right"></i>
                         <!-- <svg class="header-navigation-list-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.<path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg> -->
                     </a>
                 </li>
