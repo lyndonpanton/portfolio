@@ -90,16 +90,16 @@
 
     <main>
         <section id="about" class="main-section">
-            <h2>About Me</h2>
+            <h2 class="main-section-heading">About Me</h2>
         </section>
         <section id="skills" class="main-section">
-            <h2>Skills</h2>
+            <h2 class="main-section-heading">Skills</h2>
         </section>
         <section id="projects" class="main-section">
-            <h2>Projects</h2>
+            <h2 class="main-section-heading">Projects</h2>
         </section>
         <section id="experience" class="main-section">
-            <h2>Experience</h2>
+            <h2 class="main-section-heading">Experience</h2>
         </section>
     </main>
 
