@@ -28,20 +28,28 @@
     <aside>
 
     <header>
-        <h1 id="portfolio-author">Lyndon Mykal Panton</h1>
-        <h2 id="portfolio-role">Software Engineer</h2>
+        <h1 id="header-author">Lyndon Mykal Panton</h1>
+        <h2 id="header-role">Software Engineer</h2>
 
-        <p id="portfolio-introduction">
+        <p id="header-introduction">
             I am a computer science graduate with experience in frontend,
             backend, and server-side development.
         </p>
 
-        <nav>
-            <ul>
-                <li>About Me</li>
-                <li>Skillset</li>
-                <li>Qualifications and Work Experience</li>
-                <li>Projects</li>
+        <nav id="header-navigation">
+            <ul id="header-navigation-list">
+                <li class="header-navigation-list-item">
+                    <a class="header-navigation-list-link" href="./">About Me</a>
+                </li>
+                <li class="header-navigation-list-item">
+                    <a class="header-navigation-list-link" href="./">Skillset</a>
+                </li>
+                <li class="header-navigation-list-item">
+                    <a class="header-navigation-list-link" href="./">Qualifications and Work Experience</a>
+                </li>
+                <li class="header-navigation-list-item">
+                    <a class="header-navigation-list-link" href="./">Projects</a>
+                </li>
             </ul>
         </nav>
     </header>
