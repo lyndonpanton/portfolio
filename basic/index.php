@@ -104,35 +104,71 @@
     </main>
 
     <footer>
-        <section id="external-links">
-            <!-- <ul class="external-links-list">
-                <li class="external-links-list-heading external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
+        <section id="external-technologies">
+            <!-- <ul class="external-technologies-list">
+                <li class="external-technologies-list-heading external-technologies-list-item"></li>
+                <li class="external-technologies-list-item"></li>
+                <li class="external-technologies-list-item"></li>
+                <li class="external-technologies-list-item"></li>
+                <li class="external-technologies-list-item"></li>
             </ul>
-            <ul class="external-links-list">
-                <li class="external-links-list-heading external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
+            <ul class="external-technologies-list">
+                <li class="external-technologies-list-heading external-technologies-list-item"></li>
+                <li class="external-technologies-list-item"></li>
+                <li class="external-technologies-list-item"></li>
+                <li class="external-technologies-list-item"></li>
+                <li class="external-technologies-list-item"></li>
             </ul> -->
-            <ul class="external-links-list">
-                <li class="external-link-list-heading external-link-list-item">Languages and Frameworks</li>
-                <li class="external-link-list-item">HTML</li>
-                <li class="external-link-list-item">CSS</li>
-                <li class="external-link-list-item">JavaScript</li>
-                <li class="external-link-list-item">PHP</li>
+            <ul class="external-technologies-list">
+                <li class="external-technologies-list-heading external-technologies-list-item">Languages and Frameworks</li>
+                <li class="external-technologies-list-item">
+                    <a class="footer-link" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+                        HTML
+                    </a>
+                </li>
+                <li class="external-technologies-list-item">
+                    <a class="footer-link" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+                        CSS
+                    </a>
+                </li>
+                <li class="external-technologies-list-item">
+                    <a class="footer-link" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                        JavaScript
+                    </a>
+                </li>
+                <li class="external-technologies-list-item">
+                    <a class="footer-link" href="https://www.php.net/" target="_blank">
+                        PHP
+                    </a>
+                </li>
             </ul>
-            <ul class="external-links-list">
-                <li class="external-links-list-heading external-links-list-item">Libraries and APIs</li>
-                <li class="external-links-list-item">Fontawesome</li>
-                <li class="external-links-list-item">Google Fonts</li>
-                <li class="external-links-list-item"></li>
-                <li class="external-links-list-item"></li>
+            <ul class="external-technologies-list">
+                <li class="external-technologies-list-heading external-technologies-list-item">Libraries and APIs</li>
+                <li class="external-technologies-list-item">
+                    <a class="footer-link" href="https://fontawesome.com/" target="_blank">
+                        Fontawesome
+                    </a>
+                </li>
+                <li class="external-technologies-list-item">
+                    <a class="footer-link" href="https://fonts.google.com/" target="_blank">
+                        Google Fonts
+                    </a>
+                </li>
             </ul>
+        </section>
+
+        <section id="external-links">
+            <section id="external-links-left" class="external-links-section">
+                <p>Privacy Policy</p>
+                <p>Terms and Conditions</p>
+                <p>Cookies</p>
+            </section>
+
+            <section id="external-links-right" class="external-links-section">
+                <i class="external-links-icon fa-brands fa-twitter"></i>
+                <i class="external-links-icon fa-brands fa-facebook"></i>
+                <i class="external-links-icon fa-brands fa-instagram"></i>
+            </section>
         </section>
 
         <p id="copyright">
