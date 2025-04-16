@@ -18,7 +18,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
-    
+
     <link rel="stylesheet" href="./css/styles.css" />
     <script src="./js/script.js"></script>
 </head>
@@ -28,10 +28,10 @@
     <aside>
 
     <header>
-        <h1>Lyndon Mykal Panton</h1>
-        <h2>Software Engineer</h2>
+        <h1 id="portfolio-author">Lyndon Mykal Panton</h1>
+        <h2 id="portfolio-role">Software Engineer</h2>
 
-        <p id="header-introduction">
+        <p id="portfolio-introduction">
             I am a computer science graduate with experience in frontend,
             backend, and server-side development.
         </p>

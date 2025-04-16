@@ -1,19 +1,51 @@
+/*
+    - Pick colour scheme
+    - Highlight specialisations in #portfolio-introduction
+*/
+
+/* Desktop ********************************************************************/
+
 /* Root */
+* {
+    box-sizing: border-box;
+}
 
 body, html {
     margin: 0;
     padding: 0;
     font-family: "Afacad Flux", sans-serif;
     font-optical-sizing: auto;
+    font-size: 16px;
     font-style: normal;
     font-variation-settings: "slnt" 0;
-    font-size: 16px;
     font-weight: 500;
 }
 
 /* Header */
-header {
 
+header {
+    padding-top: 300px;
+    padding-left: 210px;
+    height: 100vh;
+
+    
+}
+
+#portfolio-author {
+    margin: 0;
+
+    font-size: 3em;
+}
+
+#portfolio-role {
+    margin: 0;
+    font-size: 2em;
+}
+
+#portfolio-introduction {
+    width: 60vh;
+
+    font-size: 1.5em;
 }
 
 /* About Me */
@@ -23,3 +55,7 @@ header {
 /* Qualifications and Work Experience */
 
 /* Projects */
+
+/* Laptop *********************************************************************/
+
+/* Mobile *********************************************************************/
