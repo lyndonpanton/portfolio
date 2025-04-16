@@ -22,7 +22,22 @@
     <aside>
 
     <header>
+        <h1>Lyndon Mykal Panton</h1>
+        <h2>Software Engineer</h2>
 
+        <p id="header-introduction">
+            I am a computer science graduate with experience in frontend,
+            backend, and server-side development.
+        </p>
+
+        <nav>
+            <ul>
+                <li>About Me</li>
+                <li>Skillset</li>
+                <li>Qualifications and Work Experience</li>
+                <li>Projects</li>
+            </ul>
+        </nav>
     </header>
 
     <main>
