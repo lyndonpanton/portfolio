@@ -20,7 +20,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/3556eab2e4.js" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/mobile.css" />
+    <link rel="stylesheet" href="./css/laptop.css" />
+    <link rel="stylesheet" href="./css/desktop.css" />
     <script src="./js/script.js"></script>
 </head>
 <body>
