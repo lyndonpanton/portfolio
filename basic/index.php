@@ -29,13 +29,19 @@
     <aside>
         <ul id="profile-list">
             <li id="profile-list-github" class="profile-list-item">
-                <i class="profile-list-icon fa-brands fa-github-alt"></i>
+                <a href="https://github.com/lyndonpanton" target="_blank">
+                    <i id="profile-list-github-icon" class="profile-list-icon fa-brands fa-github-alt"></i>
+                </a>
             </li>
             <li id="profile-list-linkedin" class="profile-list-item">
-                <i class="profile-list-icon fa-brands fa-linkedin-in"></i>
+                <a href="https://www.linkedin.com/in/lyndonpanton/" target="_blank">
+                    <i id="profile-list-linkedin-icon"class="profile-list-icon fa-brands fa-linkedin-in"></i>
+                </a>
             </li>
             <li id="profile-list-email" class="profile-list-item">
-                <i class="profile-list-icon fa-solid fa-envelope"></i>
+                <a href="mailto:lyndonpanton@gmail.com" target="_blank">
+                    <i id="profile-list-email-icon"class="profile-list-icon fa-solid fa-envelope"></i>
+                </a>
             </li>
         </ul>
     </aside>

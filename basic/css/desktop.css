@@ -5,6 +5,9 @@
         - Normal text: #000000
         - Blue text: #000088
         - Light text: #CDCDCD
+        - Github icon hover: 
+        - Linkedin icon hover: #0077B5
+        - Mail icon hover: 
 */
 
 /* Root */
@@ -33,7 +36,7 @@ aside {
 
     height: 100vh;
 
-    font-size: 2.5em;
+    font-size: 3em;
 }
 
 #profile-list {
@@ -56,20 +59,27 @@ aside {
     text-decoration: underline;
 }
 
-#profile-list-github:hover {
-    
-}
-
-#profile-list-linkedin:hover {
-
-}
-
-#profile-list-email:hover {
-
-}
-
 .profile-list-icon {
+    color: black;
+    
+    transition: color 0.5s linear;
+}
 
+#profile-list-github-icon:hover {
+    color: #FF88FF;
+
+    transition: color 0.5s linear;
+}
+
+#profile-list-linkedin-icon:hover {
+    color:#7777FF;
+
+    transition: color 0.5s linear;
+}
+
+#profile-list-email-icon:hover {
+    color: #FFAA99;
+    transition: color 0.5s linear;
 }
 
 /* Header */

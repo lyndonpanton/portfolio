@@ -6,8 +6,11 @@ A list of tasks for completing this version project.
 
 ## List
 
-- Hover styling to the aside icons
-- Transition movement for internal links
-- Add favicon file
+- Polish
+    - Hover styling to the aside icons
+    - Favicon tab icon
+- Navigation
+    - Back to top icon (bottom-left corner)
+    - Keyboard shortcuts for page navigation
 
 ## References
