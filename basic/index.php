@@ -199,36 +199,6 @@
 
             <section id="project-list">
                 <article class="project">
-                    <h3 class="project-heading">{ Project Title }</h3>
-                    <img class="project-image" src="" alt="A screenshot of one of my projects" />
-                    <ul class="project-technology-list">
-                        <li class="project-technology-list-item">N/A</li>
-                        <li class="project-technology-list-item">N/A</li>
-                        <li class="project-technology-list-item">N/A</li>
-                    </ul>
-                </article>
-
-                <article class="project">
-                    <h3 class="project-heading">{ Project Title }</h3>
-                    <img class="project-image" src="" alt="A screenshot of one of my projects" />
-                    <ul class="project-technology-list">
-                        <li class="project-technology-list-item">N/A</li>
-                        <li class="project-technology-list-item">N/A</li>
-                        <li class="project-technology-list-item">N/A</li>
-                    </ul>
-                </article>
-
-                <article class="project">
-                    <h3 class="project-heading">{ Project Title }</h3>
-                    <img class="project-image" src="" alt="A screenshot of one of my projects" />
-                    <ul class="project-technology-list">
-                        <li class="project-technology-list-item">N/A</li>
-                        <li class="project-technology-list-item">N/A</li>
-                        <li class="project-technology-list-item">N/A</li>
-                    </ul>
-                </article>
-
-                <article class="project">
                     <h3 class="project-heading">Portfolio</h3>
                     <!-- 2548 x 1591 -->
                     <img class="project-image" src="./img/project-screenshot-portfolio-3.png" alt="A screenshot of one of my projects" />
@@ -236,6 +206,36 @@
                         <li class="project-technology-list-item">PHP</li>
                         <li class="project-technology-list-item">CSS</li>
                         <li class="project-technology-list-item">JavaScript</li>
+                    </ul>
+                </article>
+                
+                <article class="project">
+                    <h3 class="project-heading">{ Project Title }</h3>
+                    <img class="project-image" src="" alt="A screenshot of one of my projects" />
+                    <ul class="project-technology-list">
+                        <li class="project-technology-list-item">N/A</li>
+                        <li class="project-technology-list-item">N/A</li>
+                        <li class="project-technology-list-item">N/A</li>
+                    </ul>
+                </article>
+
+                <article class="project">
+                    <h3 class="project-heading">{ Project Title }</h3>
+                    <img class="project-image" src="" alt="A screenshot of one of my projects" />
+                    <ul class="project-technology-list">
+                        <li class="project-technology-list-item">N/A</li>
+                        <li class="project-technology-list-item">N/A</li>
+                        <li class="project-technology-list-item">N/A</li>
+                    </ul>
+                </article>
+
+                <article class="project">
+                    <h3 class="project-heading">{ Project Title }</h3>
+                    <img class="project-image" src="" alt="A screenshot of one of my projects" />
+                    <ul class="project-technology-list">
+                        <li class="project-technology-list-item">N/A</li>
+                        <li class="project-technology-list-item">N/A</li>
+                        <li class="project-technology-list-item">N/A</li>
                     </ul>
                 </article>
             </section>
