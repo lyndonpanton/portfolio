@@ -5,9 +5,18 @@
         - Normal text: #000000
         - Blue text: #000088
         - Light text: #CDCDCD
-        - Github icon hover: 
-        - Linkedin icon hover: #0077B5
-        - Mail icon hover: 
+        - Github icon hover: #FF88FF
+        - Linkedin icon hover: #7777FF
+        - Mail icon hover: #FFAA99
+        - Languages
+            - Background: #DEBCAD
+            - Border: #DB4400
+        - Frameworks and Libraries
+            - Background: #CEE8B5
+            - Border: #6EE600
+        - Tools
+            - Background: #B5BAE8
+            - Border: #0118E6
 */
 
 /* Root */
@@ -72,7 +81,7 @@ aside {
 }
 
 #profile-list-linkedin-icon:hover {
-    color:#7777FF;
+    color: #7777FF;
 
     transition: color 0.5s linear;
 }
@@ -191,7 +200,65 @@ header {
 
 /* About Me */
 
-/* Skillset */
+/* Skills */
+#skills {
+
+}
+
+#skills-categories {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    text-align: left;
+}
+
+.skills-category {
+    width: 30%;
+}
+
+.skills-category-heading {
+    font-size: 2em;
+}
+
+.skills-category-list {
+    margin: 0;
+    padding: 0;
+
+    list-style-type: none;
+
+}
+
+.skills-category-list-item {
+    display: inline-block;
+
+    
+    margin: 4px 2px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px 15px;
+
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.skills-languages {
+    border: 2px solid #884444;
+    
+    background-color: #FFEEEE;
+}
+
+.skills-frameworks {
+    border: 2px solid #448844;
+    
+    background-color: #EEFFEE;
+}
+
+.skills-tools {
+    border: 2px solid #444488;
+    
+    background-color: #EEEEFF;
+}
 
 /* Experience */
 

@@ -6,6 +6,8 @@ A list of tasks for completing this version project.
 
 ## List
 
+- Content
+    - Move the about section below other main sections?
 - Polish
     - Hover styling to the aside icons
     - Favicon tab icon
