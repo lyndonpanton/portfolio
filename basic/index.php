@@ -208,7 +208,7 @@
                         <li class="project-technology-list-item">JavaScript</li>
                     </ul>
                 </article>
-                
+
                 <article class="project">
                     <h3 class="project-heading">{ Project Title }</h3>
                     <img class="project-image" src="" alt="A screenshot of one of my projects" />
@@ -243,6 +243,33 @@
 
         <section id="experience" class="main-section">
             <h2 class="main-section-heading">Experience</h2>
+
+            <!--
+                - BSc Computer Science (Hons) (University of Essex)
+                - VR Internship (University of Essex)
+                - Bright Network Internship? (Virtual)
+            -->
+            <section id="experience-list">
+                <article class="experience-item">
+                    <img class="experience-logo" src="" alt="Logo of organisation I gained experience at" />
+                    <h3 class="experience-role">BSc Computer Science</h3>
+                    <h4 class="experience-company">University of Essex</h4>
+                    <p class="experience-date">Oct '20 - July '24</p>
+                </article>
+
+                <article class="experience-item">
+                    <img class="experience-logo" src="" alt="Logo of organisation I gained experience at" />
+                    <h3 class="experience-role">VR Intern</h3>
+                    <h4 class="experience-company">Future Health Technologies</h4>
+                    <p class="experience-date">Jan '24 - March '24</p>
+                </article>
+
+                <!-- <article class="experience-item">
+                    <h3 class="experience-role"></h3>
+                    <h4 class="experience-company"></h4>
+                    <p class="experience-date"></p>
+                </article> -->
+            </section>
         </section>
     </main>
 
