@@ -105,6 +105,38 @@
         <section class="main-section-group">
             <section id="about" class="main-section">
                 <h2 class="main-section-heading">About Me</h2>
+
+                <article id="about-content">
+                    <p class="about-paragraph">
+                        <!-- Pokem ipsum dolor sit amet Elite Four Arbok Grotle
+                        Mandibuzz Cleffa Drowzee. Dark Tepig Rare Candy Ekans
+                        Woobat gym Landorus. Dark Crobat Aipom Kanto Zubat Zorua
+                        Tentacruel. Duis aute irure dolor in reprehenderit in
+                        voluptate Roselia Croconaw Cacturne Keldeo Vulpix
+                        Bonsly. Lavender Town Growlithe Bubble Body Slam Voltorb
+                        Lugia Swellow -->
+                        I am a computer science graduate who specialises in
+                        software engineering. I build web applications that {
+                        assist users in carrying out their daily life?
+                        }.
+                    </p>
+
+                    <p class="about-paragraph">
+                        { What kind of applications to you make? }
+                    </p>
+
+                    <p class="about-paragraph">
+                        <!-- Steel Bonsly Misty Simipour Psychic Cobalion Seviper.
+                        Hydro Pump Unown Carnivine Snover Raticate Mewtwo
+                        Strikes Back Sandshrew. Silver Togepi Stoutland
+                        Marshtomp Watchog Chikorita Octillery. Vine Whip
+                        Ludicolo Samurott Zorua Tail Whip the enemy Pokemon
+                        fainted Rotom. Cascade Badge Farfetch'd Sableye
+                        Combusken Zephyr Badge Lillipup Zekrom.  -->
+                        Outside of programming, I enjoy reading, playing the
+                        piano, and ???. { One more sentence. Online community? }
+                    </p>
+                </article>
             </section>
             <section id="skills" class="main-section">
                 <h2 class="main-section-heading">Skills</h2>
@@ -140,7 +172,7 @@
                             <li class="skills-category-list-item skills-frameworks">NodeJS</li>
                             <li class="skills-category-list-item skills-frameworks">ExpressJS</li>
                             <li class="skills-category-list-item skills-frameworks">Spring Boot</li>
-                            <li class="skills-category-list-item skills-frameworks">Spring Boot</li>
+                            <li class="skills-category-list-item skills-frameworks">Tailwind</li>
                         </ul>
                     </article>
                     <article class="skills-category">
@@ -164,6 +196,32 @@
 
         <section id="projects" class="main-section">
             <h2 class="main-section-heading">Projects</h2>
+
+            <section id="project-list">
+                <article class="project">
+
+                </article>
+
+                <article class="project">
+
+                </article>
+
+                <article class="project">
+
+                </article>
+
+                <article class="project">
+
+                </article>
+
+                <article class="project">
+
+                </article>
+
+                <article class="project">
+
+                </article>
+            </section>
         </section>
 
         <section id="experience" class="main-section">

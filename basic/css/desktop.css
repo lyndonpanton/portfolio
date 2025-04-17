@@ -211,6 +211,18 @@ header {
 }
 
 /* About Me */
+#about {
+    padding-right: 100px;
+}
+
+#about-content {
+    font-weight: 200;
+    font-size: 1.5em;
+}
+
+.about-paragraph {
+    margin-bottom: 60px;
+}
 
 /* Skills */
 #skills {
