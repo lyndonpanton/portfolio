@@ -230,7 +230,8 @@
 
                 <article class="project">
                     <h3 class="project-heading">Portfolio</h3>
-                    <img class="project-image" src="" alt="A screenshot of one of my projects" />
+                    <!-- 2548 x 1591 -->
+                    <img class="project-image" src="./img/project-screenshot-portfolio-3.png" alt="A screenshot of one of my projects" />
                     <ul class="project-technology-list">
                         <li class="project-technology-list-item">PHP</li>
                         <li class="project-technology-list-item">CSS</li>

@@ -44,6 +44,7 @@ aside {
     right: 0;
 
     height: 100vh;
+    padding-right: 10px;
 
     font-size: 3em;
 }
@@ -334,9 +335,10 @@ header {
     display: block;
 
     margin: 0 auto 20px;
-    border: 1px solid black;
+    border: 2px solid black;
+    border-radius: 4px;
     width: 240px;
-    height: 200px;
+    height: 135px;
 }
 
 .project-technology-list {
