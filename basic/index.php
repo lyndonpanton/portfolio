@@ -251,17 +251,27 @@
             -->
             <section id="experience-list">
                 <article class="experience-item">
-                    <img class="experience-logo" src="" alt="Logo of organisation I gained experience at" />
-                    <h3 class="experience-role">BSc Computer Science</h3>
-                    <h4 class="experience-company">University of Essex</h4>
-                    <p class="experience-date">Oct '20 - July '24</p>
+                    <section class="experience-item-section experience-item-left">
+                        <img class="experience-logo" src="" alt="Logo of organisation I gained experience at" />
+                    </section>
+
+                    <section class="experience-item-section experience-item-right">
+                        <h3 class="experience-role">BSc Computer Science</h3>
+                        <h4 class="experience-company">University of Essex</h4>
+                        <p class="experience-date">Oct '20 - July '24</p>
+                    </section>
                 </article>
 
                 <article class="experience-item">
-                    <img class="experience-logo" src="" alt="Logo of organisation I gained experience at" />
-                    <h3 class="experience-role">VR Intern</h3>
-                    <h4 class="experience-company">Future Health Technologies</h4>
-                    <p class="experience-date">Jan '24 - March '24</p>
+                    <section class="experience-item-section experience-item-left">
+                        <img class="experience-logo" src="" alt="Logo of organisation I gained experience at" />
+                    </section>
+
+                    <section class="experience-item-section experience-item-right">
+                        <h3 class="experience-role">VR Intern</h3>
+                        <h4 class="experience-company">Future Health Tech</h4>
+                        <p class="experience-date">Jan '24 - March '24</p>
+                    </section>
                 </article>
 
                 <!-- <article class="experience-item">

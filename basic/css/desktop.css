@@ -370,6 +370,84 @@ header {
 }
 
 /* Experience *****************************************************************/
+#experience {
+
+}
+
+#experience-list {
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    padding-top: 200px;
+}
+
+.experience-item {
+    display: flex;
+    flex-direction: row;
+
+    border-radius: 8px;
+    padding: 10px 20px;
+    width: 380px;
+
+    box-shadow: 
+        0 0 4px #BBBBBB,
+        0 0 4px #DDDDDD,
+        0 0 4px #FFFFFF;
+
+    transition: box-shadow 0.5s linear;
+}
+
+.experience-item:hover {
+    box-shadow:
+        0 0 4px #DE7918,
+        0 0 4px #DE7918,
+        0 0 4px #DE7918;
+
+    transition: box-shadow 0.5s linear;
+}
+
+.experience-item-section {
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px 5px;
+}
+
+.experience-logo {
+    display: block;
+
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.experience-role {
+    margin: 0 0 20px 0;
+    padding: 0;
+    
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.experience-company {
+    margin: 0 0 5px 0;
+    padding: 0;
+
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+.experience-date {
+    margin: 0;
+    padding: 0;
+
+    color: grey;
+    font-size: 0.9em;
+    font-weight: 400;
+}
 
 /* Footer *********************************************************************/
 footer {
