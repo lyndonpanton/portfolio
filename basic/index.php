@@ -102,61 +102,70 @@
     -->
 
     <main>
-        <section id="about" class="main-section">
-            <h2 class="main-section-heading">About Me</h2>
-        </section>
-        <section id="skills" class="main-section">
-            <h2 class="main-section-heading">Skills</h2>
+        <section class="main-section-group">
+            <section id="about" class="main-section">
+                <h2 class="main-section-heading">About Me</h2>
+            </section>
+            <section id="skills" class="main-section">
+                <h2 class="main-section-heading">Skills</h2>
 
-            <section id="skills-categories">
-                <article class="skills-category">
-                    <h3 class="skills-category-heading">
-                        <!-- Language icon -->Languages
-                    </h3>
-                    
-                    <ul class="skills-category-list">
-                        <li class="skills-category-list-item skills-languages">HTML</li>
-                        <li class="skills-category-list-item skills-languages">CSS</li>
-                        <li class="skills-category-list-item skills-languages">JavaScript</li>
-                        <li class="skills-category-list-item skills-languages">PHP</li>
-                        <li class="skills-category-list-item skills-languages">MySQL</li>
-                        <li class="skills-category-list-item skills-languages">Java</li>
-                        <li class="skills-category-list-item skills-languages">Python</li>
-                        <li class="skills-category-list-item skills-languages">C++</li>
-                        <li class="skills-category-list-item skills-languages">Linux</li>
-                    </ul>
-                </article>
-                <article class="skills-category">
-                    <h3 class="skills-category-heading">
-                        <!-- Book icon -->Frameworks and Libraries
-                    </h3>
-                    <!-- Packages? -->
-                    
-                    <ul class="skills-category-list">
-                        <li class="skills-category-list-item skills-frameworks">React</li>
-                        <li class="skills-category-list-item skills-frameworks">NodeJS</li>
-                        <li class="skills-category-list-item skills-frameworks">ExpressJS</li>
-                        <li class="skills-category-list-item skills-frameworks">Java Spring</li>
-                    </ul>
-                </article>
-                <article class="skills-category">
-                    <h3 class="skills-category-heading">
-                        <!-- Spanner icon -->Tools
-                    </h3>
+                <section id="skills-categories">
+                    <article class="skills-category">
+                        <h3 class="skills-category-heading">
+                            <i class="fa-solid fa-code skills-category-icon"></i>
+                            Languages
+                        </h3>
+                        
+                        <ul class="skills-category-list">
+                            <li class="skills-category-list-item skills-languages">HTML</li>
+                            <li class="skills-category-list-item skills-languages">CSS</li>
+                            <li class="skills-category-list-item skills-languages">JavaScript</li>
+                            <li class="skills-category-list-item skills-languages">PHP</li>
+                            <li class="skills-category-list-item skills-languages">MySQL</li>
+                            <li class="skills-category-list-item skills-languages">Java</li>
+                            <li class="skills-category-list-item skills-languages">Python</li>
+                            <li class="skills-category-list-item skills-languages">C++</li>
+                            <li class="skills-category-list-item skills-languages">Linux</li>
+                        </ul>
+                    </article>
+                    <article class="skills-category">
+                        <h3 class="skills-category-heading">
+                            <i class="fa-solid fa-book skills-category-icon"></i>
+                            Frameworks and Libraries
+                        </h3>
+                        <!-- Packages? -->
+                        
+                        <ul class="skills-category-list">
+                            <li class="skills-category-list-item skills-frameworks">React</li>
+                            <li class="skills-category-list-item skills-frameworks">NodeJS</li>
+                            <li class="skills-category-list-item skills-frameworks">ExpressJS</li>
+                            <li class="skills-category-list-item skills-frameworks">Spring Boot</li>
+                            <li class="skills-category-list-item skills-frameworks">Spring Boot</li>
+                        </ul>
+                    </article>
+                    <article class="skills-category">
+                        <h3 class="skills-category-heading">
+                            <i class="fa-solid fa-wrench skills-category-icon"></i>
+                            Tools
+                        </h3>
 
-                    <ul class="skills-category-list">
-                        <li class="skills-category-list-item skills-tools">Visual Studio Code</li>
-                        <li class="skills-category-list-item skills-tools">Intellij</li>
-                        <li class="skills-category-list-item skills-tools">Git</li>
-                        <li class="skills-category-list-item skills-tools">GitHub</li>
-                        <li class="skills-category-list-item skills-tools">Jira</li>
-                    </ul>
-                </article>
+                        <ul class="skills-category-list">
+                            <li class="skills-category-list-item skills-tools">Visual Studio Code</li>
+                            <li class="skills-category-list-item skills-tools">Intellij</li>
+                            <li class="skills-category-list-item skills-tools">Terminal</li>
+                            <li class="skills-category-list-item skills-tools">Git</li>
+                            <li class="skills-category-list-item skills-tools">GitHub</li>
+                            <li class="skills-category-list-item skills-tools">Jira</li>
+                        </ul>
+                    </article>
+                </section>
             </section>
         </section>
+
         <section id="projects" class="main-section">
             <h2 class="main-section-heading">Projects</h2>
         </section>
+
         <section id="experience" class="main-section">
             <h2 class="main-section-heading">Experience</h2>
         </section>

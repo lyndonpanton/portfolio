@@ -182,7 +182,6 @@ header {
     margin-left: 8px;
     width: 10px;
     height: 10px;
-
 }
 
 /* Main Section */
@@ -192,10 +191,23 @@ header {
     width: 75vw;
 }
 
+.main-section-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    margin: 0 auto;
+    width: 75vw;
+}
+
 .main-section-heading {
     font-size: 3em;
     text-align: center;
     text-decoration: underline;
+}
+
+.main-section-group .main-section-heading {
+    text-align: left;
 }
 
 /* About Me */
@@ -206,15 +218,22 @@ header {
 }
 
 #skills-categories {
-    display: flex;
+    /* display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-evenly; */
 
     text-align: left;
 }
 
 .skills-category {
-    width: 30%;
+    margin-top: 40px;
+    width: 80%;
+}
+
+.skills-category-icon {
+    margin-right: 15px;
+
+    font-size: 0.8em;
 }
 
 .skills-category-heading {
