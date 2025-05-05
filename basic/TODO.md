@@ -9,6 +9,7 @@ A list of tasks for completing this version project.
 ### Content
 
 - [ ] Add up arrow icon to the bottom-left corner
+- [ ] Add images to _Experience_ section
 
 ### Styling
 
