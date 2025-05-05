@@ -155,9 +155,9 @@
                             <li class="skills-category-list-item skills-languages">PHP</li>
                             <li class="skills-category-list-item skills-languages">MySQL</li>
                             <li class="skills-category-list-item skills-languages">Java</li>
-                            <li class="skills-category-list-item skills-languages">Python</li>
-                            <li class="skills-category-list-item skills-languages">C++</li>
-                            <li class="skills-category-list-item skills-languages">Linux</li>
+                            <!-- <li class="skills-category-list-item skills-languages">Python</li> -->
+                            <!-- <li class="skills-category-list-item skills-languages">C++</li> -->
+                            <li class="skills-category-list-item skills-languages">Bash</li>
                         </ul>
                     </article>
                     <article class="skills-category">
