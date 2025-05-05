@@ -337,7 +337,7 @@ header {
 
 .project-link {
     padding: 10px 10px;
-    
+
     color: black;
     text-decoration: none;
 }
@@ -377,7 +377,7 @@ header {
 }
 
 .project-technology-list-item {
-
+    text-align: center;
 }
 
 /* Experience *****************************************************************/

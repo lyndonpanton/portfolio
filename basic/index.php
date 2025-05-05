@@ -199,7 +199,7 @@
 
             <section id="project-list">
                 <article class="project">
-                    <a href="#" target="_blank" class="project-link">
+                    <a href="https://github.com/lyndonpanton/portfolio" target="_blank" class="project-link">
                         <h3 class="project-heading">Portfolio</h3>
                         <!-- 2548 x 1591 -->
                         <img class="project-image" src="./img/project-screenshot-portfolio-3.png" alt="A screenshot of one of my projects" />
