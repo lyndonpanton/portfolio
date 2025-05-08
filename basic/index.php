@@ -52,8 +52,6 @@
         <h2 id="header-role">Software Engineer</h2>
 
         <p id="header-introduction">
-            <!-- I am a computer science graduate with experience in frontend,
-            backend, and server-side development. -->
             I am a computer science graduate with experience in
             <span class="header-expertise">frontend</span>,
             <span class="header-expertise">server-side</span>, and
@@ -66,41 +64,29 @@
                     <a class="header-navigation-list-link" href="#about">
                         <span class="header-navigation-list-text">About Me</span>
                         <i class="header-navigation-list-arrow fa-solid fa-arrow-right"></i>
-                        <!-- <svg class="header-navigation-list-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.<path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg> -->
                     </a>
                 </li>
                 <li class="header-navigation-list-item">
                     <a class="header-navigation-list-link" href="#skills">
                         <span class="header-navigation-list-text">Skills</span>
                         <i class="header-navigation-list-arrow fa-solid fa-arrow-right"></i>
-                        <!-- <svg class="header-navigation-list-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.<path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg> -->
                     </a>
                 </li>
                 <li class="header-navigation-list-item">
                     <a class="header-navigation-list-link" href="#projects">
                         <span class="header-navigation-list-text">Projects</span>
                         <i class="header-navigation-list-arrow fa-solid fa-arrow-right"></i>
-                        <!-- <svg class="header-navigation-list-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.<path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg> -->
                     </a>
                 </li>
                 <li class="header-navigation-list-item">
                     <a class="header-navigation-list-link" href="#experience">
-                        <!-- <span class="header-navigation-list-text">Qualifications and Work Experience</span> -->
                         <span class="header-navigation-list-text">Experience</span>
                         <i class="header-navigation-list-arrow fa-solid fa-arrow-right"></i>
-                        <!-- <svg class="header-navigation-list-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.<path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg> -->
                     </a>
                 </li>
             </ul>
         </nav>
     </header>
-
-    <!--
-        - Desktop: 1500+
-        - Laptop: 1000 - 1500
-        - Tablet: 500 - 1000
-        - Mobile: < 500
-    -->
 
     <main>
         <section class="main-section-group">
@@ -109,13 +95,6 @@
 
                 <article id="about-content">
                     <p class="about-paragraph">
-                        <!-- Pokem ipsum dolor sit amet Elite Four Arbok Grotle
-                        Mandibuzz Cleffa Drowzee. Dark Tepig Rare Candy Ekans
-                        Woobat gym Landorus. Dark Crobat Aipom Kanto Zubat Zorua
-                        Tentacruel. Duis aute irure dolor in reprehenderit in
-                        voluptate Roselia Croconaw Cacturne Keldeo Vulpix
-                        Bonsly. Lavender Town Growlithe Bubble Body Slam Voltorb
-                        Lugia Swellow -->
                         I am a computer science graduate who specialises in
                         software engineering. I build web applications that {
                         assist users in carrying out their daily life?
@@ -127,13 +106,6 @@
                     </p>
 
                     <p class="about-paragraph">
-                        <!-- Steel Bonsly Misty Simipour Psychic Cobalion Seviper.
-                        Hydro Pump Unown Carnivine Snover Raticate Mewtwo
-                        Strikes Back Sandshrew. Silver Togepi Stoutland
-                        Marshtomp Watchog Chikorita Octillery. Vine Whip
-                        Ludicolo Samurott Zorua Tail Whip the enemy Pokemon
-                        fainted Rotom. Cascade Badge Farfetch'd Sableye
-                        Combusken Zephyr Badge Lillipup Zekrom.  -->
                         Outside of programming, I enjoy reading, playing the
                         piano, and ???. { One more sentence. Online community? }
                     </p>
@@ -225,13 +197,13 @@
                 </article>
 
                 <article class="project">
-                    <a href="#" target="_blank" class="project-link">
-                        <h3 class="project-heading">{ Project Title }</h3>
-                        <img class="project-image" src="" alt="A screenshot of one of my projects" />
+                    <a href="https://github.com/lyndonpanton/word-counter" target="_blank" class="project-link">
+                        <h3 class="project-heading">Word Counter</h3>
+                        <img class="project-image" src="./img/word-counter-screenshot-1.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
-                            <li class="project-technology-list-item">N/A</li>
-                            <li class="project-technology-list-item">N/A</li>
-                            <li class="project-technology-list-item">N/A</li>
+                            <li class="project-technology-list-item">PHP</li>
+                            <li class="project-technology-list-item">CSS</li>
+                            <li class="project-technology-list-item">JavaScript</li>
                         </ul>
                     </a>
                 </article>
@@ -252,12 +224,7 @@
 
         <section id="experience" class="main-section">
             <h2 class="main-section-heading">Experience</h2>
-
-            <!--
-                - BSc Computer Science (Hons) (University of Essex)
-                - VR Internship (University of Essex)
-                - Bright Network Internship? (Virtual)
-            -->
+            
             <section id="experience-list">
                 <article class="experience-item">
                     <section class="experience-item-section experience-item-left">
@@ -282,12 +249,6 @@
                         <p class="experience-date">Jan '24 - March '24</p>
                     </section>
                 </article>
-
-                <!-- <article class="experience-item">
-                    <h3 class="experience-role"></h3>
-                    <h4 class="experience-company"></h4>
-                    <p class="experience-date"></p>
-                </article> -->
             </section>
         </section>
     </main>
