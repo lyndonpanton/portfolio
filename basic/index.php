@@ -209,13 +209,13 @@
                 </article>
 
                 <article class="project">
-                    <a href="#" target="_blank" class="project-link">
-                        <h3 class="project-heading">{ Project Title }</h3>
+                    <a href="https://github.com/lyndonpanton/currency-converter" target="_blank" class="project-link">
+                        <h3 class="project-heading">Currency Converter</h3>
                         <img class="project-image" src="" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
-                            <li class="project-technology-list-item">N/A</li>
-                            <li class="project-technology-list-item">N/A</li>
-                            <li class="project-technology-list-item">N/A</li>
+                            <li class="project-technology-list-item">PHP</li>
+                            <li class="project-technology-list-item">CSS</li>
+                            <li class="project-technology-list-item">JavaScript</li>
                         </ul>
                     </a>
                 </article>
