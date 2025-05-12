@@ -96,18 +96,23 @@
                 <article id="about-content">
                     <p class="about-paragraph">
                         I am a computer science graduate who specialises in
-                        software engineering. I build web applications that {
-                        assist users in carrying out their daily life?
-                        }.
+                        software engineering. I build web applications that
+                        assist users carrying out tasks quickly and hassle-free.
+                        <!-- How do these apps assist users in their daily life? -->
                     </p>
 
                     <p class="about-paragraph">
-                        { What kind of applications to you make? }
+                        <!-- What kind of applications to you make? -->
+                        In my free time, I like creating small apps, solving
+                        problems on Hackerrank and Leetcode, and learning about
+                        different programming concepts, frameworks and
+                        libraries.
                     </p>
 
                     <p class="about-paragraph">
                         Outside of programming, I enjoy reading, playing the
-                        piano, and ???. { One more sentence. Online community? }
+                        piano, and drawing. I also use Java and C++ for game
+                        development.
                     </p>
                 </article>
             </section>

@@ -9,8 +9,9 @@ A list of tasks for completing this version project.
 ### Content
 
 - [ ] Add up arrow icon to the bottom-left corner
+- [x] Fill in _About me_ section
 - [ ] Add images to _Experience_ section
-lll
+
 ### Styling
 
 - [ ] Increase footer element font size
@@ -26,6 +27,10 @@ lll
 - [ ] Up arrow icon should be focusable
 - [ ] Up arrow icon should send user back to the top when clicked or pressed
 with the Enter key
+- [ ] Clicking a project item should display a popup
+    - [ ] Popup should include the project's title as a heading
+    - [ ] Popup should include a description of the project
+    - [ ] Popup should include a link to the project's repository
 
 ### Validation
 
