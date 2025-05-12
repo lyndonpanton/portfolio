@@ -187,7 +187,7 @@
                 <article class="project">
                     <a href="https://github.com/lyndonpanton/task-list" target="_blank" class="project-link">
                         <h3 class="project-heading">Task List</h3>
-                        <img class="project-image" src="./img/task-list-screenshot-1.png" alt="A screenshot of one of my projects" />
+                        <img class="project-image" src="./img/task-list-screenshot.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
                             <li class="project-technology-list-item">PHP</li>
                             <li class="project-technology-list-item">MySQL</li>
@@ -199,7 +199,7 @@
                 <article class="project">
                     <a href="https://github.com/lyndonpanton/word-counter" target="_blank" class="project-link">
                         <h3 class="project-heading">Word Counter</h3>
-                        <img class="project-image" src="./img/word-counter-screenshot-1.png" alt="A screenshot of one of my projects" />
+                        <img class="project-image" src="./img/word-counter-screenshot.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
                             <li class="project-technology-list-item">PHP</li>
                             <li class="project-technology-list-item">CSS</li>
@@ -211,7 +211,7 @@
                 <article class="project">
                     <a href="https://github.com/lyndonpanton/currency-converter" target="_blank" class="project-link">
                         <h3 class="project-heading">Currency Converter</h3>
-                        <img class="project-image" src="" alt="A screenshot of one of my projects" />
+                        <img class="project-image" src="./img/currency-converter-screenshot.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
                             <li class="project-technology-list-item">PHP</li>
                             <li class="project-technology-list-item">CSS</li>
