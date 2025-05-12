@@ -10,7 +10,7 @@ A list of tasks for completing this version project.
 
 - [ ] Add up arrow icon to the bottom-left corner
 - [x] Fill in _About me_ section
-- [ ] Add images to _Experience_ section
+- [x] Add images to _Experience_ section
 
 ### Styling
 

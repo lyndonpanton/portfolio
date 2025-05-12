@@ -133,8 +133,6 @@
                             <li class="skills-category-list-item skills-languages">PHP</li>
                             <li class="skills-category-list-item skills-languages">MySQL</li>
                             <li class="skills-category-list-item skills-languages">Java</li>
-                            <!-- <li class="skills-category-list-item skills-languages">Python</li> -->
-                            <!-- <li class="skills-category-list-item skills-languages">C++</li> -->
                             <li class="skills-category-list-item skills-languages">Bash</li>
                         </ul>
                     </article>
@@ -143,7 +141,6 @@
                             <i class="fa-solid fa-book skills-category-icon"></i>
                             Frameworks and Libraries
                         </h3>
-                        <!-- Packages? -->
                         
                         <ul class="skills-category-list">
                             <li class="skills-category-list-item skills-frameworks">React</li>
@@ -179,7 +176,6 @@
                 <article class="project">
                     <a href="https://github.com/lyndonpanton/portfolio" target="_blank" class="project-link">
                         <h3 class="project-heading">Portfolio</h3>
-                        <!-- 2548 x 1591 -->
                         <img class="project-image" src="./img/project-screenshot-portfolio-3.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
                             <li class="project-technology-list-item">PHP</li>
@@ -233,7 +229,7 @@
             <section id="experience-list">
                 <article class="experience-item">
                     <section class="experience-item-section experience-item-left">
-                        <img class="experience-logo" src="" alt="Logo of organisation I gained experience at" />
+                        <img class="experience-logo" src="./img/university-of-essex.svg" alt="Logo of organisation I gained experience at" />
                     </section>
 
                     <section class="experience-item-section experience-item-right">
@@ -245,7 +241,8 @@
 
                 <article class="experience-item">
                     <section class="experience-item-section experience-item-left">
-                        <img class="experience-logo" src="" alt="Logo of organisation I gained experience at" />
+                        <!-- Credits: https://unsplash.com/photos/a-white-pot-with-a-black-handle-hwNVu64mgiE -->
+                        <img class="experience-logo" src="./img/vr-headset.jpg" alt="Logo of organisation I gained experience at" title="Credits: https://unsplash.com/@mediamodifier" />
                     </section>
 
                     <section class="experience-item-section experience-item-right">
