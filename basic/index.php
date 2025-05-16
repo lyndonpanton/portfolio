@@ -220,6 +220,18 @@
                         </ul>
                     </a>
                 </article>
+
+                <article class="project">
+                    <a href="https://github.com/lyndonpanton/pixel-art-editor" target="_blank" class="project-link">
+                        <h3 class="project-heading">Pixel Art Editor</h3>
+                        <img class="project-image" src="" alt="A screenshot of one of my projects" />
+                        <ul class="project-technology-list">
+                            <li class="project-technology-list-item">HTML</li>
+                            <li class="project-technology-list-item">CSS</li>
+                            <li class="project-technology-list-item">JavaScript</li>
+                        </ul>
+                    </a>
+                </article>
             </section>
         </section>
 
