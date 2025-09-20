@@ -234,7 +234,7 @@
                 </article>
 
                 <article class="project">
-                    <a href="https://github.com/lyndonpanton/weather-app" target="_blank" class="project-link">
+                    <a href="https://lyndonpanton.github.io/weather-app/" target="_blank" class="project-link">
                         <h3 class="project-heading">Weather App</h3>
                         <img class="project-image" src="./img/weather-app-screenshot.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
@@ -246,7 +246,7 @@
                 </article>
 
                 <article class="project">
-                    <a href="https://github.com/lyndonpanton/recursion" target="_blank" class="project-link">
+                    <a href="https://lyndonpanton.github.io/recursion/" target="_blank" class="project-link">
                         <h3 class="project-heading">Recursion</h3>
                         <img class="project-image" src="./img/recursion-screenshot.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
