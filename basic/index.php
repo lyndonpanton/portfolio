@@ -250,7 +250,19 @@
                         <h3 class="project-heading">Recursion</h3>
                         <img class="project-image" src="./img/recursion-screenshot.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
-                            <li class="project-technology-list-item">CSS</li>
+                            <li class="project-technology-list-item">DSAA</li>
+                            <li class="project-technology-list-item">JavaScript</li>
+                            <li class="project-technology-list-item">Webpack</li>
+                        </ul>
+                    </a>
+                </article>
+
+                <article class="project">
+                    <a href="https://lyndonpanton.github.io/linked-lists/" target="_blank" class="project-link">
+                        <h3 class="project-heading">Linked Lists</h3>
+                        <img class="project-image" src="./img/linked-lists-screenshot.png" alt="A screenshot of one of my projects" />
+                        <ul class="project-technology-list">
+                            <li class="project-technology-list-item">DSAA</li>
                             <li class="project-technology-list-item">JavaScript</li>
                             <li class="project-technology-list-item">Webpack</li>
                         </ul>
