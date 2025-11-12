@@ -274,8 +274,8 @@
                         <h3 class="project-heading">Artist's Homepage</h3>
                         <img class="project-image" src="./img/homepage-screenshot.png" alt="A screenshot of one of my projects" />
                         <ul class="project-technology-list">
-                            <li class="project-technology-list-item">Responsive Design</li>
-                            <li class="project-technology-list-item">Accessibility</li>
+                            <li class="project-technology-list-item">Responsive</li>
+                            <li class="project-technology-list-item">A11Y</li>
                             <li class="project-technology-list-item">Webpack</li>
                         </ul>
                     </a>

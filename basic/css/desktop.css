@@ -96,7 +96,7 @@ aside {
 header {
     padding-top: 300px;
     padding-left: 210px;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 #header-author {
@@ -188,7 +188,7 @@ header {
 /* Main Section ***************************************************************/
 .main-section {
     margin: 0 auto;
-    height: 100vh;
+    min-height: 100vh;
     width: 75vw;
 }
 
@@ -306,7 +306,7 @@ header {
     grid-template-columns: 1fr 1fr; */
 
     /* Remove once more projects are added */
-    margin-top: 200px;
+    /* margin-top: 200px; */
 }
 
 .project {
@@ -393,7 +393,7 @@ header {
     justify-content: space-around;
     align-items: center;
 
-    padding-top: 200px;
+    /* padding-top: 200px; */
 }
 
 .experience-item {
